@@ -1,0 +1,12 @@
+{
+  "name": "binary-search-package",
+  "version": "1.0.0",
+  "description": "A package containing a binary search algorithm implementation.",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["binary search", "algorithm"],
+  "author": "ankit",
+  "license": "ISC"
+}

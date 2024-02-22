@@ -1,0 +1,1 @@
+Target 5 is found at index 4 in the array.
